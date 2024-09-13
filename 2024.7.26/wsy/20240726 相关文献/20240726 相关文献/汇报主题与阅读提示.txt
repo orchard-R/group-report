@@ -1,0 +1,13 @@
+大家好，这周我汇报的主题是：
+The potential as photodetector of stacked two-dimensional materials based on Moire ferroelectricity
+
+大家可以提前简要阅读文件夹中的三篇文献，
+已经按照建议阅读顺序为文献编号序号。
+
+阅读时可以提前思考以下问题：
+1.什么是ferroelectricity？什么是Moire ferroelectricity?
+二维材料堆叠后产生以上性质的机制是什么？
+
+2.如何理解在Moire ferroelectricity下探测到的光电流现象？该现象具备什么特点？
+
+3.利用问题2中的光电流现象，如何将其延申至functional devices当中？
